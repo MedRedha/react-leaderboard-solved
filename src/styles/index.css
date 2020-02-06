@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+button {
+  margin: 20px 2px 30px;
+}
+
+.content {
+  margin-top: 30px;
+}
+
+table.table {
+  width: 80%;
+  margin: 0 10% 5%;
+}
+
+.table td,
+.table th {
+  text-align: center;
+}
+
+.table th:first-letter {
+  text-transform: uppercase;
+}
+
+header {
+  margin-bottom: 20px;
+}
